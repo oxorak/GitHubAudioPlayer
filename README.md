@@ -16,7 +16,8 @@ Known Bugs
 Stops working randomly (just refresh)   
 Dev Console goes nuts (just close it)    
 
-Example Files     
+Example Files  
+https://oxorak.github.io/GitHubAudioPlayer/aliveandkicking.mp3
 https://coffeeman240.github.io/GitHubAudioPlayerExampleRepo/slammingmusic.mp3 (The song from "I thammed my pennith in the car door")      
 https://coffeeman240.github.io/GitHubAudioPlayerExampleRepo/DeltaWhy.mp3 ("Attack of the Killer Queen" from Deltarune Chapter 2)      
 https://coffeeman240.github.io/GitHubAudioPlayerExampleRepo/MysticleQuest3UnboxingAudio.mp3 (Leaked Mysticle Quest 3 Unboxing Audio :troll:)      
